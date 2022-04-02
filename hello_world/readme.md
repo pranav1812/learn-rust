@@ -1,15 +1,15 @@
-# Setup
+## Setup
    ```
    cargo init
    ```
 
-# Build
+## Build
    ```
    cargo build 
    cargo build --release
    ```
 
-# Run
+## Run
    ```
    cargo run
    cargo run --release
